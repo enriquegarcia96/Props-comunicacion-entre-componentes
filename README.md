@@ -8,6 +8,6 @@ In the project directory, you can run:
 
 ### `npm start`
 
-PROPS - componentes dinamicos
-Extracion de componentes
-Alternatica para llamar a los PROPS
+# PROPS - componentes dinamicos
+# Extracion de componentes
+# Alternatica para llamar a los PROPS
